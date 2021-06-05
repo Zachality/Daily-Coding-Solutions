@@ -1,0 +1,3 @@
+language = "cpp"
+run = "g++ -o main main.cpp"
+onBoot = "echo here we go again"
